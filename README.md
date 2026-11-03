@@ -116,9 +116,11 @@ A portfolio website to introduce my background and showcase my work.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=chaitanyasivathmika19&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub profile statistics" />
-&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyasivathmika19&layout=compact&hide_border=true" alt="Most used languages" />
+<p align="center">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=chaitanyasivathmika19&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub profile statistics" />
+  &nbsp;
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=chaitanyasivathmika19&layout=compact&hide_border=true" alt="Most used languages" />
+</p>
 
 <br />
 
