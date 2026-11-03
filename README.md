@@ -26,7 +26,7 @@ I'm a Computer Science and Engineering graduate from **KL University** with a **
 - 🌱 **Currently learning:** Data Structures and Algorithms in Java, Spring Boot, and REST APIs
 - 🏆 **Leadership:** Core member and later chief for FLAMFARE technical events
 - 🎯 **Goal:** Grow as a software developer and contribute to real-world applications
-- 🏸 **Beyond tech:** Badminton and rom-com stories
+- 🏸 **Beyond tech:** Badminton and Wattpad stories
 
 ---
 
