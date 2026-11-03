@@ -64,15 +64,13 @@ I'm a Computer Science and Engineering graduate from **KL University** with a **
 
 - Developed a Java full-stack project focused on diet planning and identifying potential nutrient deficiencies.
 - Used Java web technologies and a relational database to support application functionality.
-- **Repository:** Add your actual repository link here.
-
+- **Repository:** [NutriGuide](https://github.com/chaitanyasivathmika19/NutriGuide)
 ### 2. Pet Adoption & Accessories Management System
 **Tech:** MERN Stack
 
 - Worked on a web application for pet adoption and pet accessories management.
 - Applied full-stack development concepts across the frontend, server, and database layers.
-- **Repository:** Add your actual repository link here.
-
+- **Repository:** [Petspaw](https://github.com/chaitanyasivathmika19/petpaw-platform-)
 ### 3. Personal Portfolio
 **Tech:** HTML · CSS · JavaScript
 
